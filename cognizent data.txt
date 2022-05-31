@@ -1,0 +1,33 @@
+Variable- Container which can hold the values.
+A=10;
+A=variable
+10-value
+Variable=45.078
+Example:
+Cylinder=Gas
+Cylinder-variable
+Gas-value
+int X = 10;
+x-variable
+10-value
+double d = 0.005;
+Float variable = 0.005f;
+Character X= ’A’;
+X= “hello world”
+
+
+Data Type in java
+1.Primitive Data Type/Pre-Defined data type-Memory is fixed
+2.Non Primitive Data Type/User Defined Data Type -Memory is not fixed
+1.Primitive Data Type-Memory is fixed
+1. byte  b = -128  to 127;128    110  - 1 byte  
+Byte-Primitive Data Type
+b-Variable
+-128-Value
+2. short  s = -32768 to 32767; - 2 byte
+3. int  i = -2147483648  to  2147483647; - 4 byte
+4. long l= -9223372036854775808L to 9223372036854775808L;- 8 byte
+5. float  t = 0.0000001f; - 4 byte
+6. double d = 0.000000000000001; - 8 byte
+7. boolean b = true or false; - 1 bit 
+8. char c= ‘h’; -2 byte
